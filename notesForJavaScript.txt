@@ -1,0 +1,43 @@
+How to enable live server :
+
+npm install -g live-server
+live-server -v
+live-server :this one to start live server in you terminal
+
+
+Introduction :
+
+alert("Hello")
+enter 
+a prompt message will appear saying Hello
+
+-----------------------------------------
+
+alert("Hello")
+alert("Sruti")
+
+for multilines
+after enetering hello it will show the message instead of going to the next line
+inorder to go to the next line, use shift+enter
+
+-----------------------------------------
+
+alt+ctrl+i : shortcut for inspect elemet in browser for windows
+
+-----------------------------------------
+
+
+
+-----------------------------------------
+
+
+
+-----------------------------------------
+
+
+
+-----------------------------------------
+
+
+
+-----------------------------------------
