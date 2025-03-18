@@ -101,3 +101,15 @@ while(i<=6){
     i++;
 }
 
+let accountId = 4353
+var accountname = 'sruti'
+accountId = 3424
+accountname = 'wefrfr'
+account = 1343
+account = 3243
+console.log([accountId, accountname, account]);
+
+// alert(3+3)
+
+//we are using node now not consodle
+
