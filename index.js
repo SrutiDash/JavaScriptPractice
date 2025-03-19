@@ -111,5 +111,6 @@ console.log([accountId, accountname, account]);
 
 // alert(3+3)
 
-//we are using node now not consodle
+//we are using node now not console
+
 
