@@ -153,4 +153,38 @@ console.log(f);
 console.log(d);
 console.log(f);
 
+//conditional operators
 
+x = 10;
+
+if(x==10){
+    console.log('x is 10')
+}else{
+    console.log('x is not 10')
+}
+
+//will return 'x is 10'
+
+x = '10';
+
+if(x==10){
+    console.log('x is 10')
+}else{
+    console.log('x is not 10')
+}
+
+//will return 'x is 10'
+//'10' is string but still prints 'x is 10' even tho
+//it should return the else statement because == conditions only check
+//it's value not it's data type
+
+x = '10';
+
+if(x===10){
+    console.log('x is 10')
+}else{
+    console.log('x is not 10')
+}
+
+//will return 'x is not 10'
+//=== operator checks value as well as data type
