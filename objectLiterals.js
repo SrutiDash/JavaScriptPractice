@@ -60,3 +60,25 @@ const todos = [
 
 console.log(todos)
 console.log(todos[1].message) // to print message the object literal of the array with index 1
+
+const json = JSON.stringify(todos)
+console.log(todos)
+
+console.log(typeof(todos))
+console.log(typeof(json))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
