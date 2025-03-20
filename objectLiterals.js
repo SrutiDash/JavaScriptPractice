@@ -35,3 +35,28 @@ let text = "   JavaScript  ";
 
 console.log(text.trimStart()); // "JavaScript   "
 console.log(text.trimEnd());   // "   JavaScript"
+person.email = 'srutidash@gmail.com'
+console.log(person)
+
+//arrays of objects :
+
+const todos = [
+    {
+        id : 1,
+        text : 'xyz',
+        message : 'ok'  //0th index
+    },
+    {
+        id : 2,
+        text : 'abc',
+        message : 'not ok' //1st index
+    },
+    {
+        id : 3,
+        text : 'mnc',
+        message : 'neutral' //2nd index
+    }
+];
+
+console.log(todos)
+console.log(todos[1].message) // to print message the object literal of the array with index 1
