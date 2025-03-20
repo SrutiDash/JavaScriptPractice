@@ -31,7 +31,7 @@ let cake = " straw berry short cake "
 console.log(cake.trim());
 
 
-let text = "   JavaScript   ";
+let text = "   JavaScript  ";
 
 console.log(text.trimStart()); // "JavaScript   "
 console.log(text.trimEnd());   // "   JavaScript"
