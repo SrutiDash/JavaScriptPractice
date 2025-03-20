@@ -188,3 +188,9 @@ if(x===10){
 
 //will return 'x is not 10'
 //=== operator checks value as well as data type
+
+
+//ternary operator
+y = 4;
+color = y>=4 ? 'red' : 'blue';
+console.log(color)
