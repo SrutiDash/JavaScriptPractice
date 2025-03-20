@@ -61,3 +61,7 @@ console.log(Array.isArray(fruits)) //true as fruits is an array
 
 //if you want to check if any value that is inside an array then use arrayname.includes
 console.log(fruits.includes(34))
+
+
+//index of array
+console.log(fruits.indexOf('orange'))
